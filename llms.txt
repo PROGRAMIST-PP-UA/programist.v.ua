@@ -1,0 +1,57 @@
+# Програміст Роман (RomanDev) - Table of Contents / Зміст сайту
+
+> Професійна веб-розробка, інтернет-магазини, боти та автоматизація бізнесу.
+
+Цей файл містить повний зміст та структуру сайту [programist.v.ua](https://programist.v.ua/) для зручної навігації.
+
+## 📌 Головне
+- [Головна сторінка](https://programist.v.ua/) - Загальна інформація про послуги, портфоліо та контакти.
+- [Контакти](https://programist.v.ua/contacts) - Зв'язатися зі мною.
+- [Відгуки](https://programist.v.ua/reviews) - Відгуки клієнтів.
+- [Блог](https://programist.v.ua/blog) - Статті про веб-розробку, SEO та фріланс.
+
+## 🛠 Послуги (Services)
+- [Виправлення помилок на сайті](https://programist.v.ua/bug-fixing)
+- [Розробка сайту з нуля](https://programist.v.ua/website-development)
+- [Розробка Telegram-ботів](https://programist.v.ua/telegram-bots)
+- [Інтернет-магазин на PrestaShop](https://programist.v.ua/prestashop)
+- [Інтернет-магазин на OpenCart](https://programist.v.ua/opencart)
+- [Розробка на Laravel](https://programist.v.ua/laravel)
+- [Інтернет-магазин на Laravel](https://programist.v.ua/laravel-shop)
+- [Сайти та підтримка WordPress](https://programist.v.ua/wordpress)
+- [PHP розробка](https://programist.v.ua/php)
+- [Node.js розробка](https://programist.v.ua/nodejs)
+- [Розробка на Nuxt.js](https://programist.v.ua/nuxt)
+- [Розробка на Next.js](https://programist.v.ua/nextjs)
+- [Розробка на React.js](https://programist.v.ua/react)
+- [Верстка з Figma у HTML/CSS](https://programist.v.ua/figma-to-code)
+- [SEO-оптимізація сайту](https://programist.v.ua/seo-optimization)
+- [Налаштування хостингу та сервера](https://programist.v.ua/hosting-setup)
+- [Інтеграція API між сервісами](https://programist.v.ua/api-integration)
+- [Прискорення сайту](https://programist.v.ua/site-speed)
+- [Інтеграція CRM із сайтом](https://programist.v.ua/crm-integration)
+- [Налаштування корпоративної пошти](https://programist.v.ua/email-setup)
+- [Авторизація та особисті кабінети](https://programist.v.ua/auth-cabinet)
+
+## 📝 Блог (Статті)
+- [Чому сайт не приносить клієнтів](https://programist.v.ua/blog/chomu-sayt-ne-prynosyt-kliyentiv)
+- [Fiverr розробка сайтів](https://programist.v.ua/blog/fiverr-rozrobka-saytiv)
+- [Freelancehunt - чи найняти розробника напряму](https://programist.v.ua/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu)
+- [Kabanchik розробка сайтів](https://programist.v.ua/blog/kabanchik-rozrobka-saytiv)
+- [Лендінг чи багатосторінковий сайт](https://programist.v.ua/blog/landing-chy-bagatostorinkoviy)
+- [OLX розробка сайтів](https://programist.v.ua/blog/olx-rozrobka-saytiv)
+- [Перенесення сайту з Tilda](https://programist.v.ua/blog/perenesennya-saytu-z-tilda)
+- [Сайт на конструкторі vs розробка](https://programist.v.ua/blog/sayt-na-konstruktori-vs-rozrobka)
+- [Сайт під ключ](https://programist.v.ua/blog/sayt-pid-klyuch)
+- [Що потрібно знати перед замовленням](https://programist.v.ua/blog/shcho-potribno-znaty-pered-zamovlennyam)
+- [Скільки коштує підтримка сайту](https://programist.v.ua/blog/skilki-koshtuie-pidtrymka-saytu)
+- [Скільки коштує розробка сайту](https://programist.v.ua/blog/skilki-koshtuie-rozrobka-saytu)
+- [Upwork Ukraine - як знайти програміста](https://programist.v.ua/blog/upwork-ukraine-yak-znayti-programista)
+- [Як вибрати CMS](https://programist.v.ua/blog/yak-vybraty-cms)
+
+## 👤 Контакти
+- **Сайт**: [programist.v.ua](https://programist.v.ua)
+- **Email**: [info@programist.v.ua](mailto:info@programist.v.ua)
+- **Telegram**: [@MatviyRoman](https://t.me/MatviyRoman)
+- **GitHub**: [github.com/romanmatviy](https://github.com/romanmatviy)
+- **Website**: [devroman.dev](https://devroman.dev)
