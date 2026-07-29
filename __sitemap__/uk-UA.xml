@@ -20,9 +20,9 @@
     </url>
     <url>
         <loc>https://programist.v.ua/blog/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/bug-fixing/</loc>
@@ -32,9 +32,9 @@
     </url>
     <url>
         <loc>https://programist.v.ua/city/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/contacts/</loc>
@@ -164,33 +164,33 @@
     </url>
     <url>
         <loc>https://programist.v.ua/blog/chomu-sayt-ne-prynosyt-kliyentiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/chomu-sayt-ne-prynosyt-kliyentiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/chomu-sayt-ne-prynosyt-kliyentiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/chomu-sayt-ne-prynosyt-kliyentiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/chomu-sayt-ne-prynosyt-kliyentiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/fiverr-rozrobka-saytiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/fiverr-rozrobka-saytiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/fiverr-rozrobka-saytiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/fiverr-rozrobka-saytiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/fiverr-rozrobka-saytiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/freelancehunt-chy-naynyaty-rozrobnyka-napryamu/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/hosting-blokuye-poshtu-z-saytu/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/hosting-blokuye-poshtu-z-saytu/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/hosting-blokuye-poshtu-z-saytu/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/hosting-blokuye-poshtu-z-saytu/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/hosting-blokuye-poshtu-z-saytu/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/hosting-perevyshchennya-inodes/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/hosting-perevyshchennya-inodes/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/hosting-perevyshchennya-inodes/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/hosting-perevyshchennya-inodes/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/hosting-perevyshchennya-inodes/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/hosting-perevyshchennya-navantazhennya/</loc>
@@ -200,69 +200,69 @@
     </url>
     <url>
         <loc>https://programist.v.ua/blog/kabanchik-rozrobka-saytiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/kabanchik-rozrobka-saytiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/kabanchik-rozrobka-saytiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/kabanchik-rozrobka-saytiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/kabanchik-rozrobka-saytiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/landing-chy-bagatostorinkoviy/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/landing-chy-bagatostorinkoviy/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/landing-chy-bagatostorinkoviy/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/landing-chy-bagatostorinkoviy/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/landing-chy-bagatostorinkoviy/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/olx-rozrobka-saytiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/olx-rozrobka-saytiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/olx-rozrobka-saytiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/olx-rozrobka-saytiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/olx-rozrobka-saytiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/perenesennya-saytu-z-tilda/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/perenesennya-saytu-z-tilda/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/perenesennya-saytu-z-tilda/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/perenesennya-saytu-z-tilda/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/perenesennya-saytu-z-tilda/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/sayt-na-konstruktori-vs-rozrobka/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/sayt-na-konstruktori-vs-rozrobka/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/sayt-na-konstruktori-vs-rozrobka/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/sayt-na-konstruktori-vs-rozrobka/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/sayt-na-konstruktori-vs-rozrobka/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/sayt-pid-klyuch/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/sayt-pid-klyuch/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/sayt-pid-klyuch/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/sayt-pid-klyuch/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/sayt-pid-klyuch/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/shcho-potribno-znaty-pered-zamovlennyam/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/shcho-potribno-znaty-pered-zamovlennyam/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/shcho-potribno-znaty-pered-zamovlennyam/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/shcho-potribno-znaty-pered-zamovlennyam/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/shcho-potribno-znaty-pered-zamovlennyam/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/shvydka-indeksaciya-saytu-indexfast/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/shvydka-indeksaciya-saytu-indexfast/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/shvydka-indeksaciya-saytu-indexfast/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/shvydka-indeksaciya-saytu-indexfast/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/shvydka-indeksaciya-saytu-indexfast/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/skilki-koshtuie-pidtrymka-saytu/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/skilki-koshtuie-pidtrymka-saytu/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/skilki-koshtuie-pidtrymka-saytu/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/skilki-koshtuie-pidtrymka-saytu/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/skilki-koshtuie-pidtrymka-saytu/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/skilki-koshtuie-rozrobka-saytu/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/skilki-koshtuie-rozrobka-saytu/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/skilki-koshtuie-rozrobka-saytu/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/skilki-koshtuie-rozrobka-saytu/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/skilki-koshtuie-rozrobka-saytu/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/upwork-ukraine-yak-znayti-programista/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/upwork-ukraine-yak-znayti-programista/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/upwork-ukraine-yak-znayti-programista/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/blog/upwork-ukraine-yak-znayti-programista/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/blog/upwork-ukraine-yak-znayti-programista/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/blog/yak-vybraty-cms/</loc>
@@ -272,219 +272,219 @@
     </url>
     <url>
         <loc>https://programist.v.ua/city/bila-tserkva/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/bila-tserkva/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/bila-tserkva/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/bila-tserkva/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/bila-tserkva/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/brovary/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/brovary/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/brovary/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/brovary/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/brovary/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/bucha/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/bucha/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/bucha/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/bucha/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/bucha/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/cherkasy/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/cherkasy/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/cherkasy/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/cherkasy/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/cherkasy/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/chernihiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/chernihiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/chernihiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/chernihiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/chernihiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/chernivtsi/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/chernivtsi/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/chernivtsi/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/chernivtsi/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/chernivtsi/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/dnipro/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/dnipro/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/dnipro/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/dnipro/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/dnipro/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/irpin/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/irpin/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/irpin/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/irpin/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/irpin/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/ivano-frankivsk/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/ivano-frankivsk/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/ivano-frankivsk/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/ivano-frankivsk/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/ivano-frankivsk/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kamianets-podilskyi/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kamianets-podilskyi/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kamianets-podilskyi/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kamianets-podilskyi/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kamianets-podilskyi/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kamianske/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kamianske/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kamianske/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kamianske/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kamianske/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kharkiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kharkiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kharkiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kharkiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kharkiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kherson/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kherson/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kherson/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kherson/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kherson/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/khmelnytskyi/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/khmelnytskyi/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/khmelnytskyi/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/khmelnytskyi/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/khmelnytskyi/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kramatorsk/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kramatorsk/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kramatorsk/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kramatorsk/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kramatorsk/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kremenchuk/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kremenchuk/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kremenchuk/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kremenchuk/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kremenchuk/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kropyvnytskyi/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kropyvnytskyi/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kropyvnytskyi/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kropyvnytskyi/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kropyvnytskyi/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kryvyi-rih/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kryvyi-rih/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kryvyi-rih/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kryvyi-rih/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kryvyi-rih/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/kyiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kyiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kyiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/kyiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/kyiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/lutsk/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/lutsk/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/lutsk/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/lutsk/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/lutsk/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/lviv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/lviv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/lviv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/lviv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/lviv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/mukachevo/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/mukachevo/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/mukachevo/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/mukachevo/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/mukachevo/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/mykolaiv/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/mykolaiv/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/mykolaiv/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/mykolaiv/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/mykolaiv/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/nikopol/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/nikopol/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/nikopol/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/nikopol/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/nikopol/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/odesa/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/odesa/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/odesa/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/odesa/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/odesa/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/pavlograd/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/pavlograd/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/pavlograd/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/pavlograd/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/pavlograd/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/poltava/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/poltava/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/poltava/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/poltava/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/poltava/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/rivne/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/rivne/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/rivne/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/rivne/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/rivne/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/sloviansk/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/sloviansk/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/sloviansk/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/sloviansk/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/sloviansk/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/sumy/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/sumy/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/sumy/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/sumy/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/sumy/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/ternopil/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/ternopil/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/ternopil/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/ternopil/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/ternopil/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/uman/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/uman/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/uman/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/uman/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/uman/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/uzhhorod/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/uzhhorod/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/uzhhorod/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/uzhhorod/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/uzhhorod/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/vinnytsia/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/vinnytsia/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/vinnytsia/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/vinnytsia/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/vinnytsia/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/zaporizhzhia/</loc>
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/zaporizhzhia/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/zaporizhzhia/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/zaporizhzhia/" hreflang="uk-UA" />
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/zaporizhzhia/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/city/zhytomyr/</loc>
-        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/zhytomyr/" hreflang="ru-RU" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/zhytomyr/" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://programist.v.ua/city/zhytomyr/" hreflang="uk-UA" />
+        <xhtml:link rel="alternate" href="https://programist.v.ua/ru/city/zhytomyr/" hreflang="ru-RU" />
     </url>
     <url>
         <loc>https://programist.v.ua/api-integration/geo/bila-tserkva/</loc>
@@ -5023,4 +5023,4 @@
         <xhtml:link rel="alternate" href="https://programist.v.ua/ru/wordpress/geo/zhytomyr/" hreflang="ru-RU" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.6.0 at 2026-07-29T14:42:36.571Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.6.0 at 2026-07-29T15:58:28.168Z -->
